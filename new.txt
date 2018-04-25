@@ -1,0 +1,29 @@
+训练数据集-2016.07.29.release链接：http://pan.baidu.com/s/1nuTOhPR 密码：xkoq
+行人检测常用数据集链接：http://pan.baidu.com/s/1dF1oqqt 密码：cwih
+推荐系统数据集链接：http://pan.baidu.com/s/1dFGh21r 密码：gnwj
+斯坦福狗图像Stanford Dogs Dataset链接：http://pan.baidu.com/s/1jIvE6to 密码：ji60
+认知语言学数据链接：http://pan.baidu.com/s/1boSMz99 密码：49fu
+汽车数据集链接：http://pan.baidu.com/s/1c2zo4oS 密码：uaz2
+拍拍贷和携程数据集链接：http://pan.baidu.com/s/1hsnBdXi 密码：duiy
+面数据集链接：http://pan.baidu.com/s/1kV9jE0B 密码：tx3y
+基因组图像数据集链接：http://pan.baidu.com/s/1kV9jE0B 密码：tx3y
+地图数据(SVHN) Dataset链接：http://pan.baidu.com/s/1eSpbcWE 密码：aj84
+VG-100链接：http://pan.baidu.com/s/1i4AZtsD 密码：sfby
+NASA 数据集链接：http://pan.baidu.com/s/1dF9vT7N 密码：wlut
+reddit-top-2.5-million-master链接：http://pan.baidu.com/s/1nvxArHJ 密码：7cyp
+fma元数据链接：http://pan.baidu.com/s/1c2OqWMk 密码：614c
+Ecdat_0.3-1.tar.gz链接：http://pan.baidu.com/s/1jHTUmmM 密码：verf
+coco2014链接：http://pan.baidu.com/s/1jHTUmmM 密码：verf
+BigMM2015验证数据集链接：http://pan.baidu.com/s/1jHTUmmM 密码：verf
+AILab_KNN数据集链接：http://pan.baidu.com/s/1jIvE6xg 密码：fndv
+训练集图像链接：http://pan.baidu.com/s/1i5j5qnz 密码：ca21
+条形码扫描效果摸底评估_数据集链接：http://pan.baidu.com/s/1jIh1wlo 密码：y3ut
+世界食物数据集链接：http://pan.baidu.com/s/1jHVWa7k 密码：mlgp
+电热水器及净水器评论数据集.zip链接：http://pan.baidu.com/s/1kVMaSKZ 密码：pgyo
+多个人脸数据集链接：http://pan.baidu.com/s/1cnhwJk 密码：hbxx
+电子邮件数据集链接：http://pan.baidu.com/s/1i4TWn6d 密码：hr4i
+petster-data.tar链接：http://pan.baidu.com/s/1i4NQ9VJ 密码：ohtg
+millionbase 2.2链接：http://pan.baidu.com/s/1bEB0rc 密码：6gm0
+human-resources-analytics链接：http://pan.baidu.com/s/1cF7BR4 密码：1063
+drive-download-20170612T083719Z-001链接：http://pan.baidu.com/s/1eSb3PsA 密码：fdxf
+20年游戏数据集链接：http://pan.baidu.com/s/1c2aRXTI 密码：1lky                                                                                                                                                                                                                                                                                                   
